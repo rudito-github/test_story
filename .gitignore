@@ -1,0 +1,4 @@
+secrets.txt
+chapter4NEIN.txt
+# Log files ignorieren
+*.log
